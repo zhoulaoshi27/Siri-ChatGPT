@@ -1,8 +1,4 @@
-# Siri-ChatGPT
-
-
-
-## Siri智能问答机器人 - 每个人都是自己领域的专家
+## 苹果Siri智能问答机器人
 ### 无需安装部署，通过对接API接口将ChatGPT接入苹果Siri，打造你个人专属助理，让chatgpt回答你的所有问题
 我们为你提供了一个只属于你个人的智能助理（非常重要~）。
 
@@ -36,7 +32,7 @@
 ## 使用效果展示
 在Siri里回复提问者的问题
 
-![在Siri里回复提问者的问题](https://p1.mingdaoyun.cn/RiceText/e50eb66a-8e91-4bbe-979a-ca5df9cde651/6049b3586c16421510d92328/20230528/7Rca6Ubzfp0A7del1YbZeU1q3j8H4e1oeLaDa02Ndi15ddbv5U17a14XfM382g5a.jpg?e=1685247421&token=PGtAPYyCYxCQ1zckbL-ecATOk42z8P3jdPahEnzt:904sG9KSJCtQ_iQKKU_bI9S-Lyw=)
+![在Siri里回复提问者的问题](https://p1.mingdaoyun.cn/RiceText/e50eb66a-8e91-4bbe-979a-ca5df9cde651/6049b3586c16421510d92328/20230528/aE7N2i1s5K6f5V1N0B9paVbO9U4keZdy5T6A74bk2i6R4L3X4g897Q9W4naEe628.png?e=1685253211&token=PGtAPYyCYxCQ1zckbL-ecATOk42z8P3jdPahEnzt:-mjFdrytkRth-mpAF55MfmqTsgc=)
 
 ![在Siri里回复提问者的问题](https://p1.mingdaoyun.cn/RiceText/e50eb66a-8e91-4bbe-979a-ca5df9cde651/6049b3586c16421510d92328/20230528/fb0T6h3G0L4LfVe47wbQ4q1ae8be0J7k5U0HeP6t5e566c9babfbd48q2UcJef69.png?e=1685253214&token=PGtAPYyCYxCQ1zckbL-ecATOk42z8P3jdPahEnzt:O5vZgJhdNwKq1FuYglIFLyPpGxw=)
 
